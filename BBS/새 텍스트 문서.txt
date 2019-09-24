@@ -1,0 +1,53 @@
+문자 자바 스크립트 
+오브젝트 는 { 키 값 벨류값 , 키값 벨류값}
+어레이 { 벨류, 벨류, 벨류 }
+
+object ob['key'] , ob[0] <-- 인덱스
+array ar[0] <-- 인덱스
+array 는 한가지 타입만 입력 가능
+스트링이면 스트링 !    변수 가 필드다.
+프린트는 메소드
+
+
+제일 앞에 인스터스만 지워짐
+똑같은 값으로 삭제 하더라도 나머지는 살아 있다
+중복 제거는 안된다.
+
+어레이리스트에서 정수는 integer
+
+import java.util.ArrayList;
+int i=5;
+class exercise {
+  public exercise() {
+  }
+public void main(String[] args) {
+  ArrayList<integer> arrList= new ArrayList<int>();
+	for(i=5; i>0; i--){
+    arrList.add(i);
+  }
+    arrList.remove(2);		//인덱스
+  arraList.indexOf(2);		//값 인덱스 찾기
+  arrList.get(0);				//인덱스로 값찾기 
+  arrList.set(3, 10);		//인덱스, 벨류
+}
+} 
+}
+
+퍼블릭 
+
+system.out.println
+		필드	
+		
+		//
+		/*
+		*/
+		
+		
+변수!
+
+
+new 는 인스턴스!
+
+		
+		
+		
